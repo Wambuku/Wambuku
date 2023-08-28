@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wambuku
 - 👀 I’m interested in coding and learning new stuff in coding. It is exiciting
-- 🌱 I’m currently learning in kabarak university in my senior year doing Computer Science
+- 🌱 I’m a Computer Science undergraduate student in Kabarak
 - 💞️ I’m looking to collaborate on working on a project using the python programming to create any website 
 - 📫 How to reach me ... via gmail julietwambuku361@gmail.com
 
